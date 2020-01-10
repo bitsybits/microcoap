@@ -1,4 +1,11 @@
-# microcoap
+# uniot-coap
+This repository is part of the [Uniot](https://github.com/uniot-io) project. All necessary changes have been made so that it can exist as a module for the [uniot-core](https://github.com/uniot-io/uniot-core).
+
+Original repositories: [microcoap](https://github.com/1248/microcoap), [YaCoAP](https://github.com/RIOT-Makers/YaCoAP)
+
+The following is the original readme.
+
+## microcoap
 
 ## example
 
